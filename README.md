@@ -15,6 +15,7 @@ Use len() method to get the number of rows and columns.
 ### Step 5:
 Display the result.
 ## PROGRAM:
+```
 Developed by:SUBHASHRI R
 Register No: 212223230219
 
@@ -25,6 +26,8 @@ print(df.head(10))
 print(df.tail())
 print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
+
+```
 ## OUTPUT:
 
 ![Alt text](<Screenshot 2024-01-02 152929.png>)
